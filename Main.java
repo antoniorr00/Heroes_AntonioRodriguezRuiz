@@ -38,7 +38,6 @@ public class Main {
                 System.out.print("Elige una opción: ");
                 int opcion = scanner.nextInt();
                 scanner.nextLine(); //limpiamos el buffer
-                boolean seguirEligiendoArma = true;
                 System.out.println();
 
                 switch (opcion) {
